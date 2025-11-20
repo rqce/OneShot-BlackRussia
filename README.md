@@ -111,4 +111,4 @@
 
 
 ## Media
-![image](https://media.discordapp.net/attachments/1227956358003949640/1394065573834657802/photo_2025-07-14_00-12-54.jpg?ex=6875743d&is=687422bd&hm=87df7e3a2b50d2c88b774beded512d789fbdce1861959deecb27075d17c71335&=&format=webp&width=1606&height=856)
+![image](https://media.discordapp.net/attachments/1227956358003949640/1394065573834657802/photo_2025-07-14_00-12-54.jpg?ex=69202e7d&is=691edcfd&hm=c0c6fb4a2d92ac7287858b252db1ca3ed3766b3649f731fbae5b66ca7160b6b7&=&format=webp&width=1692&height=902)
