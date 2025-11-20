@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" height="250" src="https://media.discordapp.net/attachments/1227956358003949640/1394065478074241186/photo_2023-10-31_16-48-34.jpg?ex=68757426&is=687422a6&hm=3e5ac1cbb827d0ac98609470ba57003cc48214e9f28c2c46b6a8c47d33288841&=&format=webp">
+  <img width="500" height="250" src="https://media.discordapp.net/attachments/1227956358003949640/1394065478074241186/photo_2023-10-31_16-48-34.jpg?ex=69202e66&is=691edce6&hm=081d4ed55ef21f9c480129c897f981bf229914f7c75cafbfac602d6bafa9fe16&=&format=webp">
 </p>
 
 ## Вступление
